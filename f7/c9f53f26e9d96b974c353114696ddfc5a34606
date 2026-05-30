@@ -1,0 +1,27 @@
+Doc/library/sqlite3.rst
+  s_0ad3ad56809efc::t_34938114e2c51e 1754-1757
+Doc/whatsnew/3.16.rst
+  s_0ad3ad56809efc::t_34938114e2c51e 104-111
+Modules/_sqlite/blob.c
+  s_0ad3ad56809efc::t_d442d9d63c9cd5 572,574,581,584
+Misc/NEWS.d/next/Library/2026-05-26-15-53-50.gh-issue-150449.GfDWxl.rst
+  s_0ad3ad56809efc::t_34938114e2c51e 1-3
+Lib/test/test_sqlite3/test_dbapi.py
+  s_0ad3ad56809efc::t_2e846135b1aa3c 1413-1424
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "f7c9f53f26e9d96b974c353114696ddfc5a34606",
+  "prompts": {},
+  "sessions": {
+    "s_0ad3ad56809efc": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "4feca4e1-209d-4367-ba22-d08a8a3a7344",
+        "model": "gpt-5-mini"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>"
+    }
+  }
+}
