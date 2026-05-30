@@ -1,0 +1,19 @@
+Doc/library/sqlite3.rst
+  s_0ad3ad56809efc::t_2fdb7b9975fc70 1754
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "5087b422665452ca1c70ae2aaf66766d8d1aaaed",
+  "prompts": {},
+  "sessions": {
+    "s_0ad3ad56809efc": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "4feca4e1-209d-4367-ba22-d08a8a3a7344",
+        "model": "gpt-5-mini"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>"
+    }
+  }
+}
