@@ -1,0 +1,19 @@
+Doc/whatsnew/3.16.rst
+  s_0ad3ad56809efc::t_5c5545d2a48db7 134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "d4b4b43fb625a57437c8315aff0071acac6ab033",
+  "prompts": {},
+  "sessions": {
+    "s_0ad3ad56809efc": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "4feca4e1-209d-4367-ba22-d08a8a3a7344",
+        "model": "gpt-5-mini"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>"
+    }
+  }
+}
