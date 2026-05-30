@@ -1,0 +1,21 @@
+Doc/whatsnew/3.16.rst
+  s_0ad3ad56809efc::t_53f58d6c8b84cd 108-109
+Misc/NEWS.d/next/Library/2026-05-26-15-53-50.gh-issue-150449.GfDWxl.rst
+  s_0ad3ad56809efc::t_bb1bffadc2d485 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "d774ab7d66e6a1ccfb846346c1c3859ca2949301",
+  "prompts": {},
+  "sessions": {
+    "s_0ad3ad56809efc": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "4feca4e1-209d-4367-ba22-d08a8a3a7344",
+        "model": "gpt-5-mini"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>"
+    }
+  }
+}
