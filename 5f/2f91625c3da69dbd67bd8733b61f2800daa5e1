@@ -1,0 +1,19 @@
+Modules/_sqlite/blob.c
+  s_f80f36aaa10812::t_ae71e5b5f202e9 543-546,552,557
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "5f2f91625c3da69dbd67bd8733b61f2800daa5e1",
+  "prompts": {},
+  "sessions": {
+    "s_f80f36aaa10812": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "4f6c915c-2a4d-44b4-a5c5-a68db4e22b81",
+        "model": "gpt-5-mini"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>"
+    }
+  }
+}
