@@ -1,0 +1,23 @@
+Misc/NEWS.d/next/Library/2026-06-04-21-49-18.gh-issue-150913.EmptyBl.rst
+  s_f80f36aaa10812::t_a87599441afba8 1-3
+Lib/test/test_sqlite3/test_dbapi.py
+  s_f80f36aaa10812::t_5f473c1b16ac7f 1403-1414
+Modules/_sqlite/blob.c
+  s_f80f36aaa10812::t_0e3c2f8fd78a15 542-543,545-552
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "e7fdb62cc2d7e5bf7208e1fd28b7358b026747e8",
+  "prompts": {},
+  "sessions": {
+    "s_f80f36aaa10812": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "4f6c915c-2a4d-44b4-a5c5-a68db4e22b81",
+        "model": "gpt-5-mini"
+      },
+      "human_author": null
+    }
+  }
+}
