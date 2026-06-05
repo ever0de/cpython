@@ -1,0 +1,20 @@
+Lib/test/test_sqlite3/test_dbapi.py
+  s_ef546f03176696::t_2723b79969a6c3 1455-1456,1459-1460,1463-1464,1467-1468
+  s_ef546f03176696::t_34333bf4dba978 1457-1458,1461,1465-1466,1469
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "52084f9e07249bf99e907dc971c9c4503f5b6ef8",
+  "prompts": {},
+  "sessions": {
+    "s_ef546f03176696": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e96f7-d9d6-7fa2-a9a2-9059d1e51e95",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>"
+    }
+  }
+}
