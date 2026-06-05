@@ -1,0 +1,19 @@
+Lib/test/test_sqlite3/test_dbapi.py
+  s_37ee9f83dd6bcb::t_edfee0a188bb9f 1402-1404,1455-1457
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "be1aa18c77e38d820e9d69bea4cb257677e3e976",
+  "prompts": {},
+  "sessions": {
+    "s_37ee9f83dd6bcb": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "36b6178d-c1ba-4453-92a0-10c1e61d3fd3",
+        "model": "gpt-5-mini"
+      },
+      "human_author": "Jiseok CHOI <jiseok.dev@gmail.com>"
+    }
+  }
+}
